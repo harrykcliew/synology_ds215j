@@ -1,6 +1,11 @@
 # synology_ds215j
 
 ## Info
+- Hardware Info
+  ```
+  CPU: MARVELL 88F6720 Armada 375
+  RAM: 512 MB
+  ```
 - DSM Version
   ```
   cat /etc/VERSION
