@@ -24,6 +24,8 @@
   Linux 3.2.40 armv7l
   ```
 - Apps
+  * Synology Apps:
+    * Desktop Utilities: [https://www.synology.com/en-global/support/download/DS215j?version=6.2#utilities](https://www.synology.com/en-global/support/download/DS215j?version=6.2#utilities)
   * Media Apps:
     * Emby Media Server: [https://emby.media/synology6-server](https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology_4.8.10.0_armv7.spk)
     * Plex Media Server: [https://www.plex.tv/media-server-downloads](https://downloads.plex.tv/plex-media-server-new/1.41.3.9314-a0bfb8370/synology/PlexMediaServer-1.41.3.9314-a0bfb8370-armv7neon_DSM6.spk)
