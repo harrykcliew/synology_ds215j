@@ -1,6 +1,27 @@
 # synology_ds215j
 
 ## Info
+- DSM Version
+  ```
+  cat /etc/VERSION
+  majorversion="6"
+  minorversion="2"
+  major="6"
+  minor="2"
+  micro="4"
+  productversion="6.2.4"
+  buildphase="GM"
+  buildnumber="25556"
+  smallfixnumber="7"
+  nano="7"
+  base="25556"
+  packing="nano7-fullpatch"
+  packing_id="3"
+  derived="nano7-fullpatch"
+  derived_id="3"
+  builddate="2023/05/02"
+  buildtime="21:11:51"
+  ```
 - Kernel
   ```
   $ uname -srm
