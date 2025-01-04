@@ -15,6 +15,9 @@
   builddate="2023/05/02"
   buildtime="21:11:51"
   ```
+- Software Info
+  * https://www.synology.com/en-us/dsm/6.2/software_spec
+  * https://www.synology.com/en-global/dsm/6.2
 - Kernel
   ```
   $ uname -srm
