@@ -25,6 +25,7 @@
   ```
 - Apps
   * Synology Apps:
+    * Packages: [https://www.synology.com/en-global/support/download/DS215j?version=6.2#packages](https://www.synology.com/en-global/support/download/DS215j?version=6.2#packages)
     * Desktop Utilities: [https://www.synology.com/en-global/support/download/DS215j?version=6.2#utilities](https://www.synology.com/en-global/support/download/DS215j?version=6.2#utilities)
   * Media Apps:
     * Emby Media Server: [https://emby.media/synology6-server](https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology_4.8.10.0_armv7.spk)
