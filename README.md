@@ -3,21 +3,16 @@
 ## Info
 - Hardware Info
   ```
-  CPU: MARVELL 88F6720 Armada 375
+  CPU: MARVELL 88F6720 Armada 375 800Mhz x 2
   RAM: 512 MB
   ```
 - DSM Version
   ```
-  cat /etc/VERSION
-  productversion="6.2.4"
-  buildphase="GM"
-  buildnumber="25556"
-  builddate="2023/05/02"
-  buildtime="21:11:51"
+  DSM 7.0.1-42218 Update 7
   ```
 - Software Info
-  * https://www.synology.com/en-us/dsm/6.2/software_spec
-  * https://www.synology.com/en-global/dsm/6.2
+  * https://www.synology.com/en-us/dsm/7.0/software_spec
+  * https://www.synology.com/en-global/dsm/7.0
 - Kernel
   ```
   $ uname -srm
