@@ -11,8 +11,9 @@
   DSM 7.0.1-42218 Update 7
   ```
 - Software Info
-  * https://www.synology.com/en-us/dsm/7.0/software_spec
-  * https://www.synology.com/en-global/dsm/7.0
+  ```
+  https://www.synology.com/en-global/releaseNote/DSM?model=DS215j#7_0
+  ```
 - Kernel
   ```
   $ uname -srm
