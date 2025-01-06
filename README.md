@@ -19,7 +19,7 @@
   ```
 - Apps
   * Synology Apps:
-    * Packages: [https://www.synology.com/en-global/support/download/DS215j?version=6.2](https://www.synology.com/en-global/support/download/DS215j?version=6.2)
+    * Packages: https://www.synology.com/en-global/support/download/DS215j?version=7.0#packages
       * Synology Drive Server
       * Synology Photos
   * SynoCommunity:
