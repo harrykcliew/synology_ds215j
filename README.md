@@ -3,7 +3,7 @@
 ## Info
 - Hardware Info
   ```
-  CPU: MARVELL 88F6720 Armada 375 800Mhz x 2
+  CPU: MARVELL 88F6720 Armada 375 0.8GHz x 2
   RAM: 512 MB
   ```
 - DSM Version
@@ -19,7 +19,7 @@
   ```
 - Apps
   * Synology Apps:
-    * Packages: https://www.synology.com/en-global/support/download/DS215j?version=7.0#packages
+    * Packages: https://www.synology.com/en-global/support/download/DS215j?version=7.0
       * Synology Drive Server
       * Synology Photos
   * SynoCommunity:
